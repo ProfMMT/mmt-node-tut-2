@@ -1,0 +1,50 @@
+{
+    "user1": {
+        "name": "mahesh",
+        "password": "password1",
+        "profession": "teacher",
+        "id": 1
+    },
+    "user2": {
+        "name": "suresh",
+        "password": "password2",
+        "profession": "librarian",
+        "id": 2
+    },
+    "user3": {
+        "name": "mohit",
+        "password": "password4",
+        "profession": "teacher",
+        "id": 3
+    },
+    "user4": {
+        "name": "mohit",
+        "password": "password4",
+        "profession": "teacher",
+        "id": 4
+    },
+    "user5": {
+        "name": "mohit",
+        "password": "password4",
+        "profession": "teacher",
+        "id": 5
+    },
+    "user7": {
+        "name": "mohit",
+        "password": "password4",
+        "profession": "teacher",
+        "id": 7
+    },
+    "user23": {
+        "id": 23,
+        "name": "Manam",
+        "profession": "Developer",
+        "password": "Gfy89&&hfjd"
+    },
+    "user9": {
+        "id": 9,
+        "name": "Carol",
+        "profession": "HR Manager",
+        "password": "Yuh*78^yhb"
+    }
+}

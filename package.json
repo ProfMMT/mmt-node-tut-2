@@ -1,0 +1,31 @@
+{
+  "name": "mmt-node-tut-2",
+  "version": "1.0.1",
+  "description": "Tutorial for nodejs",
+  "main": "main.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "multer": "^1.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "tut-2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProfMMT/mmt-node-tut-2.git"
+  },
+  "keywords": [
+    "tutorial",
+    "nodejs",
+    "mmt"
+  ],
+  "author": "Martin MT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ProfMMT/mmt-node-tut-2/issues"
+  },
+  "homepage": "https://github.com/ProfMMT/mmt-node-tut-2#readme"
+}
